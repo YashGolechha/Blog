@@ -1,3 +1,3 @@
 # Blog
-Blog using PHP and Mysql
+Blog using PHP and MySQL.
 
